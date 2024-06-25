@@ -1,0 +1,43 @@
+h1 {
+    color: purple;
+}
+
+body {
+    background: url(./images/Hotel.jpg) center no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+    font-style:oblique;
+    font-size: large;
+    font-family: Arial, Helvetica, sans-serif;
+
+}
+tr{
+    text-align: center;
+}
+td {
+   text-align: end;
+
+}
+th {
+    text-align: end;
+}
+.wrapper {
+   margin:auto;
+   width: 80%;
+}
+#title-box {
+    background: cornsilk;
+    height: 125cm;
+    width: 23cm;
+    padding: 20px;
+    margin-right: auto;
+    margin-left: auto;
+    padding-right: 0px;
+    padding-left: 33px;
+    padding-top: 5px;
+}
+img {
+    width:22cm;
+    height:30cm;
+}
+
